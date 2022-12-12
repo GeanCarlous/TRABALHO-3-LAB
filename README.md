@@ -26,5 +26,6 @@ Substitua pelo nome do programa
 ./nome_do_programa
 
 ```
-By: Gean Carlos (https://gist.github.com/GeanCarlous).
+By: Gean Carlos Roque Almeida
+Matrícula: 536009
 
